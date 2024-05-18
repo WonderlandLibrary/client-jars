@@ -1,5 +1,5 @@
 ### Client JARs
- Here, you can find the JARs of the clients in Wonderland Library.
+ You can find the client JARs from Wonderland Library here.
 
 #### JARs
 - Aeon v2

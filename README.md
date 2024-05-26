@@ -406,8 +406,16 @@
 - Skash
 - Skid 12.11
 - Skid 12.7
+- Skid V12.13.3
+- Skid V12.13.6
+- Skid V12.13.9
+- Skid V13.0
+- Skid V13.1 Reloaded
+- Skid V13.16
 - Skidbounce v0.1.0
 - Skidbounce v0.1.1
+- SkidRecode V1
+- SkidRecode v3
 - Skill 1.11 b8.2
 - Skill 1.13.1
 - Skill 1.8
@@ -475,6 +483,7 @@
 - Velta
 - Venom
 - Vergo
+- Vestige 1.4
 - Vestige 2.0
 - Vestige 2.0.2
 - Vestige v3

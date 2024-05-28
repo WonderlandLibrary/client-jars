@@ -156,6 +156,7 @@
 - Flux B6
 - Flux B7
 - Flux B8
+- Flux b8 deobf
 - ForgeHax 3.3.1
 - Francium 1.20.4
 - Francium Reborn

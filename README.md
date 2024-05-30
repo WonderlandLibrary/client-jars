@@ -134,6 +134,7 @@
 - ExSense 10.16
 - ExtremeHackB17
 - Fabuls 1.0
+- Fabuls 1.0 Cracked
 - FadeAway
 - Fall [DEV 2.5]
 - Fan 3.1-beta

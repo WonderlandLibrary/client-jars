@@ -9,6 +9,7 @@
 - Air Client 1.3
 - Akrien B14
 - Alien
+- Ambien 7.4
 - amd-a1.1
 - Amera v2.0
 - Amplitude
@@ -144,6 +145,7 @@
 - Flare 3.7
 - Floon
 - Flow 1.1
+- Flush 0.0.1
 - Flux B11
 - Flux B12
 - Flux B13
@@ -385,6 +387,7 @@
 - Serenity b51
 - Serpent
 - SharkMod
+- Shouyua 0.5
 - Sight b191
 - Sigma 1.45
 - Sigma 1.5
@@ -406,6 +409,7 @@
 - Sigma NextGen b7
 - Sigma Remake
 - Skash
+- Skash 3.0.5.3
 - Skid 12.11
 - Skid 12.7
 - Skid V12.13.3

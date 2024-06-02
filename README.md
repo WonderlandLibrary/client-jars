@@ -1,7 +1,7 @@
-### Client JARs
+# Client JARs
  You can find the client JARs from Wonderland Library here.
 
-#### JARs
+### JARs
 - Aeon v2
 - Aero
 - Aether b1
@@ -547,7 +547,7 @@
 - Zerum B15
 - Zues
 
-#### Contributing
+### Contributing
 - Put your name (preferably your github username) in the ``contributors.list`` file if you haven't already done so in a previous commit.
 - Run the ``generate-readme.py`` script.
 - Create a pull request and wait for approval.

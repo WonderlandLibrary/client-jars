@@ -233,6 +233,7 @@
 - Kirka b11
 - Klientus 1.0
 - Koala
+- Koks v1
 - Komplexe
 - Konas
 - Kraken X

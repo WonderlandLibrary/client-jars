@@ -33,6 +33,7 @@
 - Astroline
 - Asyncware
 - Atani 0.0.3
+- Atani Beta
 - AtField 1.3
 - Atlas 1.5
 - Atmosphere b3.1
@@ -121,6 +122,7 @@
 - Echo
 - Eject 4.3.1
 - Eject Recode 0.0.8
+- Envy 1.9
 - Envy 2.6
 - Envy Old
 - Eris v0.1b
@@ -222,7 +224,7 @@
 - JamClient
 - JASTERINGO 2.1
 - JaV
-- Jigsaw
+- Jigsaw 1.8
 - Juul 1.0
 - Kami Blue 1.1.7
 - Kami Blue 2.04.21
@@ -463,8 +465,10 @@
 - TellyBridgeBot
 - Tempest 10
 - Tenacity 2.0
+- Tenacity 4.0
+- Tenacity 4.1
 - Tenacity 5.1
-- Tenacity Unknown Ver
+- Tenacity Reborn
 - TheBoys
 - ThunderHack Deluxe b0.0.7
 - ThunderHack Plus v2.41

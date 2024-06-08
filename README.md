@@ -326,6 +326,7 @@
 - Odobenus
 - Omegam0d
 - Onigger
+- Opal 080624
 - Opal 1.6
 - OtakuSquad v2
 - Pandora b10

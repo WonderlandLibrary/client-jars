@@ -46,6 +46,7 @@
 - Auxentity
 - Aware v8.4
 - Azura
+- Azura X 06042022
 - Azura X 1.3.1
 - Backstab
 - Barbi
@@ -109,7 +110,7 @@
 - Digma 0.4
 - DineTire Free Edition
 - Disco Party
-- Dog (leak)
+- Dog
 - Dortware 1.2.1
 - Dortware 1.4.0
 - Dortware 1.5.0
@@ -271,9 +272,9 @@
 - ListSense v1
 - Lite 1.6
 - Lite 1.7
-- LRQ
-- Lucid
-- Lucille
+- LRQ 1.0
+- Lucid 0.89
+- Lucille b13
 - Luna Z
 - Lyfe
 - Lynx 0.9
@@ -359,8 +360,8 @@
 - Raven B+
 - Raven B-
 - Raven B- Latest
+- Raven B- Old
 - Raven B- v9
-- RavenB- Old
 - Raze 1.4.4
 - Raze Dev
 - RedBone
@@ -417,22 +418,21 @@
 - Skash
 - Skash 3.0.5.3
 - Skid 12.11
+- Skid 12.13.3
+- Skid 12.13.6
+- Skid 12.13.9
 - Skid 12.7
-- Skid V12.13.3
-- Skid V12.13.6
-- Skid V12.13.9
-- Skid V13.0
-- Skid V13.1 Reloaded
-- Skid V13.16
+- Skid 13.0
+- Skid 13.1 Reloaded
+- Skid 13.16
 - Skidbounce v0.1.0
 - Skidbounce v0.1.1
-- SkidRecode V1
+- SkidRecode v1
 - SkidRecode v3
-- Skill 1.11 b8.2
-- Skill 1.13.1
-- Skill 1.8
-- Skill 1.9
+- Skill b1.2.1.0
 - Skill b12.0
+- Skill b8.1
+- Skill b8.2
 - Skilled v3
 - Skush
 - Sleep
@@ -453,7 +453,7 @@
 - Summer 7.0
 - Summer 8.0
 - Summer 9.0
-- Summer Reborn v3
+- Summer Reborn 3
 - Summit 2.0
 - Sumo
 - Sunrise 2.4
@@ -471,10 +471,10 @@
 - Tenacity 5.1
 - Tenacity Reborn
 - TheBoys
-- ThunderHack Deluxe b0.0.7
+- ThunderHack Deluxe v0.0.7
 - ThunderHack Plus v2.41
 - ThunderHack Recode v1.4
-- Thunderware Reloaded 911
+- Thunderware Reloaded v911
 - Tifality
 - Tomato
 - TomK
@@ -500,7 +500,7 @@
 - Vestige 1.4
 - Vestige 2.0
 - Vestige 2.0.2
-- Vestige v3
+- Vestige 3.0
 - VestigePlus 1.3.1
 - Veteran
 - Violence b1.26
@@ -523,11 +523,9 @@
 - Weepcraft 1.11.2
 - Weepcraft 1.12.2
 - Weepcraft 1.8
-- WindX b9
-- WindX Old
-- WindX z1
-- Winter
+- WinFBounce 1.0
 - Winter 7.2
+- Winter 7.5
 - Winter 8.6
 - Wolfram MC 1.12
 - Wolfram MC 1.8.9
@@ -550,7 +548,7 @@
 - Zane
 - Zephyr
 - ZeroDay b20.6
-- ZeroDay b22.2 (leak)
+- ZeroDay b22.2
 - ZeroDay b9.5
 - Zerum B15
 - Zues

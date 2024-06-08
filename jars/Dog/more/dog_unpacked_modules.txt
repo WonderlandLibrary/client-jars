@@ -1,0 +1,24 @@
+# movement modules
+C4 = NoFallModule
+C6 = FireballFlightModule
+Cj = ?
+Cn = ?
+Cs = ?
+m7 = SpeedModule
+mC = SprintModule
+
+# player modules
+Cw = ?
+m0 = ?
+m3 = StealerModule
+m9 = AutoToolModule?
+mE = FastBreakModule?
+mN = ?
+mO = ?
+mP = ?
+mR = BreakerModule?
+mU = ?
+mq = ?
+
+# render modules
+reverse yourself

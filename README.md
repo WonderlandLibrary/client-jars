@@ -198,6 +198,7 @@
 - Hazelsense
 - Hazing
 - Hera 14
+- Hera 7.4
 - Hermes
 - Hex
 - Hexeon B2
@@ -344,6 +345,7 @@
 - Polaris
 - Postman 3.001
 - PowerX
+- Prion X
 - Project Ace
 - Protocol b18
 - Puberty 4.0
@@ -383,6 +385,7 @@
 - Rose
 - Rubix
 - Ryu
+- Saint 2.3
 - Salhack
 - Sallos
 - Sapphire 5.0 VIP
@@ -436,6 +439,7 @@
 - Skilled v3
 - Skush
 - Sleep
+- Slice v15
 - Sloth
 - Slowly
 - Snow

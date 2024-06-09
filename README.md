@@ -175,6 +175,7 @@
 - FusionX Reborn 1.1
 - Future
 - Future b29
+- GameSense v2.1.0
 - GarPloit 1.3 VIP
 - Gatorade
 - GetBypass
@@ -483,6 +484,7 @@
 - Tomato
 - TomK
 - TomK v1
+- touchgrass 1.12.5
 - Triton B7
 - Triton B8
 - Twinks B13.2
@@ -506,7 +508,8 @@
 - Vestige 2.0.2
 - Vestige 3.0
 - VestigePlus 1.3.1
-- Veteran
+- Veteran 0.7
+- VeteranHack 3.7
 - Violence b1.26
 - Virgin 0.1
 - Virgin 0.21

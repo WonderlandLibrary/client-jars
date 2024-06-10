@@ -401,6 +401,7 @@
 - Rise 5.100r3
 - Rise 5.90
 - Rise 5.98
+- Rise 6.0.22
 - Rose
 - Rubix
 - Ryu
@@ -481,6 +482,7 @@
 - Summit 2.0
 - Sumo
 - Sunrise 2.4
+- Sunset
 - Supreme
 - Sweet 1.07
 - Swifting

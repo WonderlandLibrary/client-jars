@@ -29,6 +29,7 @@
 - Ascension beta 1.0
 - Asteria.rip
 - Astolfo
+- Astolfo Beta
 - Astomero
 - Astroline
 - Asyncware

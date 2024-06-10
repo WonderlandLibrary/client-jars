@@ -361,6 +361,7 @@
 - Pulsive 2.0
 - Pulsive Beta
 - Pyro 2.1.1
+- Qreaj's Rise Patcher
 - Quiet
 - Qwinks
 - Radium v1.4.0
@@ -402,6 +403,8 @@
 - Rise 5.90
 - Rise 5.98
 - Rise 6.0.22
+- Rise 6.1.30
+- Rise 6.1.x.x
 - Rose
 - Rubix
 - Ryu

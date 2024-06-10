@@ -2,6 +2,7 @@
  You can find the client JARs from Wonderland Library here.
 
 ### JARs
+- Acrimony v0.1
 - Aeon v2
 - Aero
 - Aether b1
@@ -124,7 +125,9 @@
 - EaZy
 - Ecelon b11.5
 - Echo
+- Eject 4.3.0
 - Eject 4.3.1
+- Eject Recode 0.0.4
 - Eject Recode 0.0.8
 - Envy 1.9
 - Envy 2.6

@@ -26,6 +26,7 @@
 - Arion v2.6
 - Aristois
 - Artix 4.0
+- Ascension
 - Ascension beta 1.0
 - Asteria.rip
 - Astolfo
@@ -61,6 +62,7 @@
 - BlueZenith
 - BrainFreeze v1.1
 - Breakcraft
+- Breeze
 - CatBounce 1.0.6.5
 - Celsum
 - Cerura
@@ -153,6 +155,7 @@
 - Flare 3.7
 - Floon
 - Flow 1.1
+- Fluor 0.2.2
 - Flush 0.0.1
 - Flux B11
 - Flux B12
@@ -190,6 +193,7 @@
 - Gothaj 3.0
 - Gothaj 3.01b-Alpha
 - GrandLine 1.4.1
+- GrandLine 1.5.0
 - Gravity 2.1
 - Grey
 - GubiXv2
@@ -214,7 +218,7 @@
 - Huzuni d15
 - Hydrogen 1.12.5
 - Icarus B16
-- Icarus X b5
+- Icarus X B5
 - Immaculate
 - Inertia Client 3.1.3 - 1.12.2
 - Inertia Client 3.1.3 - 1.14.4
@@ -280,6 +284,7 @@
 - Lucid 0.89
 - Lucille b13
 - Luna Z
+- Lunar Spoof 1.1.2
 - Lyfe
 - Lynx 0.9
 - Matix 1.0B
@@ -451,6 +456,7 @@
 - Skill b8.1
 - Skill b8.2
 - Skilled v3
+- Skliggahack
 - Skush
 - Sleep
 - Slice v15

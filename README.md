@@ -143,6 +143,7 @@
 - Fabuls 1.0
 - Fabuls 1.0 Cracked
 - FadeAway
+- Faiths stable-240610
 - Fall [DEV 2.5]
 - Fan 3.1-beta
 - Fantasy
@@ -322,7 +323,7 @@
 - Nodus 1.5.2
 - North
 - Noteless 220604
-- Nova
+- Nova b15.1
 - November 3.03
 - Novoline b112321
 - Null b24
@@ -497,7 +498,10 @@
 - Umbrella 1.3
 - Umbrella Beta
 - Vanessa N
-- Vape Fake v4.06
+- Vape fakev4.06
+- Vape v4.07
+- Vape v4.08
+- Vape v4.10
 - Vatic
 - Vega v7.53 b5
 - Velta

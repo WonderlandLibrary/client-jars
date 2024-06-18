@@ -181,7 +181,6 @@
 - FusionX
 - FusionX B2 Reborn
 - FusionX Reborn 1.1
-- Future
 - Future b29
 - GameSense v2.1.0
 - GarPloit 1.3 VIP
@@ -533,6 +532,7 @@
 - Velta
 - Venom
 - Vergo
+- Vertic 1.0
 - Vestige 1.4
 - Vestige 2.0
 - Vestige 2.0.2

@@ -147,7 +147,6 @@
 - ExSense 10.16
 - ExtremeHackB17
 - Fabuls 1.0
-- Fabuls 1.0 Cracked
 - FadeAway
 - Faiths stable-240610
 - Fall [DEV 2.5]

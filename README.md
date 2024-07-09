@@ -14,13 +14,10 @@
 - Alien 7.0
 - Ambien 7.4
 - AMD a1.1
-- amd-a1.1
-- Amera 1.8.9
 - Amera v2.0
 - Amplitude
 - Amusement B2
 - Anakonda B2
-- Ancient
 - Ancient b1
 - Apinity 1.1.2
 - apple
@@ -29,11 +26,9 @@
 - Ares 2.7.4
 - Ares 2.9
 - Argon
-- Arion 2.6
 - Arion v2.6
 - Aristois
 - Artix 4.0
-- Ascension
 - Ascension beta 1.0
 - Asteria.rip
 - Astolfo
@@ -62,7 +57,6 @@
 - Backstab
 - Barbi
 - BiT
-- Black Hole
 - BlackHole
 - BleachHack 1.2.6
 - Bloody 0.4.4
@@ -70,7 +64,6 @@
 - Blossom
 - Blueberry
 - BlueZenith
-- BrainFreeze
 - BrainFreeze v1.1
 - Breakcraft
 - Breeze
@@ -105,7 +98,6 @@
 - CrazyBounce
 - CrossSine B22
 - Cryptic 6.1
-- Cryptic-6.1
 - Crystalware b10
 - Crystalware Reloaded (Time Traveller II)
 - Crystalware Reloaded b8
@@ -121,7 +113,6 @@
 - Def
 - Deluge
 - Demon 0.2
-- Depression
 - Depression v1.0
 - Depression v1.6
 - Destroy 0.8
@@ -130,7 +121,6 @@
 - Diablo 1.3.2
 - Digma 0.4
 - DineTire Free Edition
-- Disco Party
 - DiscoParty
 - Dog
 - Dortware 1.2.1
@@ -174,7 +164,6 @@
 - Envy 4.2
 - Envy Old
 - Eris v0.1b
-- ETB
 - ETB 0.1
 - ETB 0.2
 - ETB 0.6
@@ -198,7 +187,6 @@
 - Fatal 3.1
 - Faurax 3.6
 - Faurax 3.6 Release 2
-- Flare
 - Flare 3.7
 - Flex B15
 - Flex B17
@@ -224,13 +212,11 @@
 - Francium Reborn
 - Freedom
 - FusionPloit 1.9
-- FusionX
 - FusionX B2
 - FusionX B2 Reborn
 - FusionX Reborn 1.1
 - Future b29
 - GameSense v2.1.0
-- GarPloit
 - GarPloit 1.3 VIP
 - Gatorade
 - Genius
@@ -253,7 +239,6 @@
 - Gravity 2.1
 - Grey
 - Gubix V2
-- GubiXv2
 - H2W
 - Hallucination 2.1
 - Hanabi 3.0 Beta
@@ -261,12 +246,10 @@
 - Hawk beta 1.4
 - Hazelsense
 - Hazing
-- Hera
 - Hera 14
 - Hera 7.4
 - Hermes
 - Hex
-- Hexeon
 - Hexeon B2
 - Hexloit
 - Hreith
@@ -277,7 +260,6 @@
 - Huzuni 1.5.2
 - Huzuni 3.5 VIP
 - Huzuni d15
-- Huzuni VIP
 - Hydrogen 1.12.5
 - Icarus B16
 - Icarus B3
@@ -297,15 +279,12 @@
 - Intel
 - Invictus v3
 - Irideum
-- iSync
 - iSync b17
 - iSync Old
-- JamClient
 - JamClient 1.8
 - Jasteringo 1.1
 - JASTERINGO 2.1
 - JaV
-- Jigsaw
 - Jigsaw 1.8
 - Jigsaw V1.01
 - Juul 1.0
@@ -338,7 +317,6 @@
 - Lambada b14
 - Lambda 3.4.0
 - Lavabounce b11
-- Leopard
 - Leopard 0.2
 - Lightning
 - LiKingSense
@@ -360,9 +338,7 @@
 - Lite 1.6
 - Lite 1.7
 - LRQ 1.0
-- Lucid
 - Lucid 0.89
-- Lucille
 - Lucille b13
 - Luna B10
 - Luna B11
@@ -403,7 +379,6 @@
 - Monsoon 3.0-A6
 - Moon 3.0
 - Moon 3.0.1
-- Moon X
 - Moral 230704
 - Moran 7.1
 - Mow b1
@@ -425,7 +400,6 @@
 - Nike B12
 - Nitrogen b15
 - Nivia b3
-- Nodus
 - Nodus 1.4.7
 - Nodus 1.5.2
 - Nodus 1.6.4
@@ -436,7 +410,6 @@
 - Nova b15.1
 - Nova B15.2
 - November 3.03
-- Novoline
 - Novoline b112321
 - Null b24
 - Obscure B3.8
@@ -451,7 +424,6 @@
 - Pandora B3
 - Pandora b8
 - Pandora b9
-- Parallaxa
 - Parallaxa 1.8.9
 - Paralyzed
 - Paris
@@ -461,7 +433,6 @@
 - PHack b17 Premium
 - Plz
 - Pog
-- Polaris
 - Polaris B14
 - Postman 3.001
 - PowerX
@@ -474,15 +445,12 @@
 - Pulsive Beta
 - Pyro 2.1.1
 - Qreaj's Rise Patcher
-- Quiet
 - Quiet B11
 - Quiet B7.0
-- Qwinks
 - Qwinks 2.0
 - Radeon B4
 - Radium v1.4.0
 - Radoen
-- Rainbow
 - Rainbow B6
 - Rapid 1.6
 - Raven B+
@@ -503,14 +471,12 @@
 - Raven bS 4.1
 - Raze 1.4.4
 - Raze Dev
-- RedBone
 - RedBone 0501
 - RedStar 1.0
 - Reflex
 - ReKt
 - RektSky
 - Relaxed
-- Remix
 - Remix 1.4
 - Resilience
 - Reverse b24
@@ -528,10 +494,8 @@
 - Saint 2.3
 - Salhack
 - Sallos
-- Sapphire
 - Sapphire 5.0 VIP
 - Satiate
-- Saturn
 - Saturn B18
 - Saturn B20
 - Sensation
@@ -561,9 +525,6 @@
 - Sigma dev
 - Sigma NextGen b7
 - Sigma Remake
-- Sigma V2.07
-- Sigma V4.12
-- Skash
 - Skash 3.0.5.3
 - Skid 12.11
 - Skid 12.13.3
@@ -595,7 +556,6 @@
 - Snow
 - Sotona
 - Spooky
-- Squid
 - Squid B7
 - Squid B8
 - Starlight
@@ -603,7 +563,6 @@
 - Stx 3
 - Submerge
 - Suffocate
-- Suicide
 - Suicide 2.0
 - Summer 10.0
 - Summer 4.0
@@ -622,7 +581,6 @@
 - Sweet 1.07
 - Swifting
 - Synergy B16
-- TeamBattle
 - TeamBattle 1.8
 - TeamHack 4.0
 - TellyBridgeBot
@@ -639,7 +597,6 @@
 - Thunderware Reloaded v911
 - Tifality
 - Tomato
-- TomK
 - TomK v1
 - touchgrass 1.12.5
 - Triton B7
@@ -673,7 +630,6 @@
 - Vestige 2.0.2
 - Vestige 3.0
 - VestigePlus 1.3.1
-- Veteran
 - Veteran 0.7
 - VeteranHack 3.7
 - Violence b1.26
@@ -701,7 +657,6 @@
 - Winter 7.2
 - Winter 7.5
 - Winter 8.6
-- Wolfram
 - Wolfram MC 1.12
 - Wolfram MC 1.8.9
 - Wurst 1.10
@@ -709,7 +664,6 @@
 - Wurst 1.12
 - Wurst 1.8
 - Wurst 1.9
-- WWE
 - WWE 1.12.2
 - WWE 1.13.1
 - WWE 1.14.4
@@ -728,7 +682,6 @@
 - Zamorozka 0.4.9
 - Zamorozka 0.5
 - Zamorozka 1.1
-- Zane
 - Zane V14.5
 - Zephyr
 - ZeroDay b20.6

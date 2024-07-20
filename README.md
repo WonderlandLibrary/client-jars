@@ -458,6 +458,7 @@
 - Raven B- Latest
 - Raven B- Old
 - Raven B- v9
+- Raven b4
 - Raven bS 1.0
 - Raven bS 1.1
 - Raven bS 1.2
@@ -654,6 +655,7 @@
 - Weepcraft 1.12.2
 - Weepcraft 1.8
 - WinFBounce 1.0
+- Winter 5.4
 - Winter 7.2
 - Winter 7.5
 - Winter 8.6

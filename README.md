@@ -56,6 +56,7 @@
 - Azura X 1.3.1
 - Backstab
 - Barbi
+- Bihoran
 - BiT
 - BlackHole
 - BleachHack 1.2.6
@@ -67,6 +68,7 @@
 - BrainFreeze v1.1
 - Breakcraft
 - Breeze
+- Buzlohax
 - Calypso
 - CatBounce 1.0.6.5
 - Celsum

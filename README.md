@@ -226,6 +226,7 @@
 - Glorium
 - Glory 0624
 - Gnome V2
+- Gnome v8
 - GoldGrinder 3.0
 - Google
 - Gorda Client B1.4
@@ -367,6 +368,7 @@
 - Matix 1.9.2B
 - Matrix
 - MeMe B1
+- Memenight v4
 - Memestar 1.11
 - Memestar 1.21
 - Meteor 0.4.5

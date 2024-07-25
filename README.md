@@ -56,7 +56,7 @@
 - Azura X 1.3.1
 - Backstab
 - Barbi
-- Bihoran
+- Biboran
 - BiT
 - BlackHole
 - BleachHack 1.2.6

@@ -413,6 +413,7 @@
 - Nova B15.2
 - November 3.03
 - Novoline b112321
+- Novoline by UltraPanda
 - Null b24
 - Obscure B3.8
 - Obscure B4.5

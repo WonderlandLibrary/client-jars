@@ -529,6 +529,7 @@
 - Sigma 4.14
 - Sigma 5
 - Sigma dev
+- Sigma NextGen b13
 - Sigma NextGen b7
 - Sigma Remake
 - Skash 3.0.5.3

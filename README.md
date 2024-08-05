@@ -567,6 +567,7 @@
 - Spooky
 - Squid B7
 - Squid B8
+- Star
 - Starlight
 - Stick
 - Stx 3

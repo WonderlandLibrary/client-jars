@@ -242,6 +242,7 @@
 - Gravity 2.1
 - Grey
 - Gubix V2
+- Gugustus
 - H2W
 - Hallucination 2.1
 - Hanabi 3.0 Beta

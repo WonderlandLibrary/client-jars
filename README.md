@@ -305,6 +305,7 @@
 - Kirka X
 - Klientus 1.0
 - Koala
+- Koks 4.1.0
 - Koks v1
 - Komplexe
 - Konas

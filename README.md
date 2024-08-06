@@ -562,6 +562,7 @@
 - Skilled v3
 - Skliggahack
 - Skush
+- Slack 2.0
 - Sleep
 - Slice v15
 - Sloth

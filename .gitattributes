@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+jars/Flux[[:space:]]b49.3/Flux.jar filter=lfs diff=lfs merge=lfs -text
+jars/Novoline[[:space:]]6.0/Novoline.jar filter=lfs diff=lfs merge=lfs -text
+jars/Novoline[[:space:]]6.9/Novoline.jar filter=lfs diff=lfs merge=lfs -text

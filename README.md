@@ -431,6 +431,7 @@
 - Opal 080624
 - Opal 1.6
 - OtakuSquad v2
+- Packet v3
 - Pandora b10
 - Pandora B3
 - Pandora b8
@@ -445,6 +446,7 @@
 - Plz
 - Pog
 - Polaris B14
+- Polarware-1.0
 - Postman 3.001
 - PowerX
 - Prion X
@@ -565,6 +567,7 @@
 - Slack 2.0
 - Sleep
 - Slice v15
+- Slinky
 - Sloth
 - Slowly
 - Snow

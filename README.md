@@ -195,6 +195,7 @@
 - Floon
 - Flow 1.1
 - Fluor 0.2.2
+- Fluorescent Beta
 - Flush 0.0.1
 - Flux B11
 - Flux B12

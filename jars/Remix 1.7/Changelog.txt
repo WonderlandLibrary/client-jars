@@ -1,0 +1,58 @@
+[27/09/2020 - Release 1.7]
+- Improved Hypixel disabler to make Flight module bypass again, works up 2.1+ with consistency with boost mode 2
+- Improved Flight module to work in latest Cubecraft server, 50 blocks max
+- Improved Panel type click gui look, a color picker would be nice (soon)
+- Improved Lowhop and Mineplex speed modes to work better
+
+- Added BountyHunter option for AutoHypixel module, works with ESP, Nametags, OnRadarScreen and Tracers
+- Added Exposed (show blocks that are exposed to air or semi-transparent block) option to Xray module
+- Added Compensate (sets your Y level to a legit block height) option to Flight module
+- Added "reset" option to .clientname command to change the name back to the previous
+- Added "clear" option and the ability to add aliases with .friend command
+- Added OnDamage modes (Disable, Update and Stay) option to Blink module
+- Added DamageIndicators option for HUD module 
+
+- Fixed account manager screen displaying the file chooser behind the Minecraft window
+- Fixed Scaffold module bug in which sometimes it would expand while towering
+- Fixed Flight to pick up on the damage once the blink stops
+- Fixed Killsults file not saving properly
+
+- Re-made the alt manager, proxy and the altening screen
+- Re-made the file system, shouldn't cause weird crashes for some people
+- Re-made the command system because the previous was much more limited (expecting suggestions)
+
+Notes:
+[] Your friends are now saved in a Friends.json file
+[] Killsults and Accounts file type changed from .json to .txt for simpler use
+[] Panel type click gui's options, position and open state get saved in Panels.json
+[] Reminder, CivBreak module works on Hypixel. You can break blocks from any distance, nice for BedWars
+[] Reminder, Accounts.txt format depends on the parts per line it has (each part separated by ":"):
+     - One part will be accepted as an username (cracked account). If the part contains "@" it will be invalid and not added to the list
+     - Two parts will be accepted as email and password (premium account)
+     - Three parts will be accepted just like two except the last part will be taken as username (which will be used to display the skin)
+Same format is applied to .txt files that want to be imported with the file chooser
+[] We made loading old configs compatible but it won't be possible for people with older versions load Remix 1.7+ files
+[] Vanilla speed slider applies to Mineplex speed. Its a speed cap, mineplex speed increases over time
+[] Account manager keyboard support:
+	- If an account is selected:
+		> While having left shift pressed you can move the selected account up and down in the list by using the arrows
+		> Login by pressing return/enter or delete it by pressing back/delete
+	- If a text box is selected:
+		> By pressing return/enter you can add the content as a cracked/premium account (depends on the content)
+		> By pressing tab you can switch to the next text box
+[] In the account manager if you press "Direct" and have an account on your clipboard it will be login with it
+[] Manually changing the login service type is no longer needed, if the email contains "@alt.com" it will auto login by using TheAltening
+
+
+[11/10/2020 - Re-release 1.7.0 additions]
+- Improved panel type click gui to adapt between different gui scales (previously only working as intended in Normal)
+
+- Added PacketAmount option to FastBow module
+- Added BlinkMode (Stay, Pulse and Damage) option to Flight module
+
+- Fixed not taking damage when having both blink and damage options enabled until it finished blinking
+
+Notes:
+[] In the account manager, if you type email:password in the email/username text box and press the Add/Direct buttton
+it will parse the account automatically. Previously this feature only worked with clipboard while the text boxes are empty.
+Don't forget that text boxes have priority over clipboard for the "Direct" button function.

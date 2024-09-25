@@ -1,0 +1,3 @@
+(11/10/2020) This is a re-release version of Remix 1.7.0.
+This versions is incompatible with the previous configuration system (1.4), so please delete your configuration folder before launching or it will crash.
+If you find any bug or have any suggestion please make sure to post about it in the server in the dedicated channels.

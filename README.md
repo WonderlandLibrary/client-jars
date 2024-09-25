@@ -138,6 +138,7 @@
 - EaZy
 - Ecelon b11.5
 - Echo
+- Eject 4.1.3
 - Eject 4.3.0
 - Eject 4.3.1
 - Eject Recode 0.0.4
@@ -253,8 +254,10 @@
 - Hanabi 3.0 Beta
 - Hawk 1.6
 - Hawk beta 1.4
+- Hawk beta 1.5.1
 - Hazelsense
 - Hazing
+- Hedes
 - Hera 14
 - Hera 7.4
 - Hermes
@@ -338,6 +341,7 @@
 - LiquidBounce b73
 - LiquidBounce+
 - LiquidBounce++
+- LiquidDrip
 - LiquidLose
 - LiquidWare
 - LiquidWing b1
@@ -496,6 +500,7 @@
 - RektSky
 - Relaxed
 - Remix 1.4
+- Remix 1.7
 - Resilience
 - Reverse b24
 - Rich Free 1.3

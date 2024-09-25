@@ -2,6 +2,7 @@
  You can find the client JARs from Wonderland Library here.
 
 ### JARs
+- Achilles
 - Acrimony v0.1
 - Aeon v2
 - Aero
@@ -195,6 +196,7 @@
 - Floon
 - Flow 1.1
 - Fluor 0.2.2
+- Fluorescent
 - Fluorescent Beta
 - Flush 0.0.1
 - Flux B11
@@ -391,6 +393,7 @@
 - Moral 230704
 - Moran 7.1
 - Mow b1
+- Myau 240106
 - Myth Recode
 - MythicX
 - MythicX Beta
@@ -636,6 +639,7 @@
 - Vape v4.07
 - Vape v4.08
 - Vape v4.10
+- Vape v4.15
 - Vatic
 - Vega B5
 - Vega v7.53 b5

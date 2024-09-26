@@ -241,6 +241,7 @@
 - GorillaGlue B15
 - GorillaGlue B17
 - GorillaGlue B20
+- Gothaj 2.0
 - Gothaj 3.0
 - Gothaj 3.01b-Alpha
 - GrandLine 1.4.1

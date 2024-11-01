@@ -202,6 +202,7 @@
 - Fluorescent
 - Fluorescent Beta
 - Flush 0.0.1
+- Flush B9
 - Flux B11
 - Flux B12
 - Flux B13
@@ -396,12 +397,14 @@
 - Mono 1.7
 - Monsoon 1.2
 - Monsoon 3.0-A6
+- Monsoon v6.9
 - Moon 3.0
 - Moon 3.0.1
 - Moral 230704
 - Moran 7.1
 - Mow b1
 - Myau 240106
+- Myau 240925
 - Myth Recode
 - MythicX
 - MythicX Beta
@@ -539,6 +542,7 @@
 - Sigma 1.5
 - Sigma 2.0
 - Sigma 2.07
+- Sigma 2.09
 - Sigma 2.2
 - Sigma 3.9
 - Sigma 3.9.1

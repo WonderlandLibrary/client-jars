@@ -403,6 +403,7 @@
 - Moral 230704
 - Moran 7.1
 - Mow b1
+- Mushroom
 - Myau 240106
 - Myau 240925
 - Myth Recode
@@ -554,8 +555,9 @@
 - Sigma 4.12
 - Sigma 4.13
 - Sigma 4.14
-- Sigma 5
-- Sigma dev
+- Sigma Jello 1.15.2
+- Sigma Jello 1.16-rc1
+- Sigma Jello 1.16.4
 - Sigma NextGen b13
 - Sigma NextGen b7
 - Sigma Remake
@@ -635,6 +637,7 @@
 - Tifality
 - Tomato
 - TomK v1
+- Tophat
 - touchgrass 1.12.5
 - Triton B7
 - Triton B8

@@ -34,6 +34,7 @@
 - Asteria.rip
 - Astolfo
 - Astolfo Beta
+- Astolfo Free
 - Astomero
 - Astro V2.1.3
 - Astroline
@@ -191,12 +192,15 @@
 - Fatal 3.1
 - Faurax 3.6
 - Faurax 3.6 Release 2
+- Flap
 - Flare 3.7
 - Flex B15
 - Flex B17
 - Floon
 - Flow 1.1
 - Fluor 0.2.2
+- Fluorescent
+- Fluorescent Beta
 - Flush 0.0.1
 - Flux B11
 - Flux B12
@@ -242,6 +246,7 @@
 - Gothaj 2.0
 - Gothaj 3.0
 - Gothaj 3.01b-Alpha
+- Gothaj 3.3.0-1
 - GrandLine 1.4.1
 - GrandLine 1.5.0
 - Gravity 2.1
@@ -405,6 +410,7 @@
 - Nero
 - NeverHook Free
 - NEWCODE 1.7
+- Nexus
 - Nexus b10
 - Nexus B12
 - Nexus b12.2
@@ -437,6 +443,7 @@
 - Onigger
 - Opal 080624
 - Opal 1.6
+- Opal 100724
 - OtakuSquad v2
 - Packet v3
 - Pandora b10

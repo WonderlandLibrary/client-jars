@@ -29,6 +29,7 @@
 - Argon
 - Arion v2.6
 - Aristois
+- Artemis
 - Artix 4.0
 - Ascension beta 1.0
 - Asteria.rip

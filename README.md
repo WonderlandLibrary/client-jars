@@ -2,7 +2,6 @@
  You can find the client JARs from Wonderland Library here.
 
 ### JARs
-- Achilles
 - Acrimony v0.1
 - Aeon v2
 - Aero
@@ -524,6 +523,7 @@
 - Rise 6.1.30
 - Rose
 - Rubix
+- RusherHack
 - Ryu
 - Saint 2.3
 - Salhack

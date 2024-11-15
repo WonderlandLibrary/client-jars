@@ -26,6 +26,7 @@
 - Ares 2.7.4
 - Ares 2.9
 - Argon
+- Argon 1.20.4
 - Arion v2.6
 - Aristois
 - Artemis
@@ -252,6 +253,7 @@
 - GrandLine 1.5.0
 - Gravity 2.1
 - Grey
+- Grim 3.2
 - Gubix V2
 - Gugustus
 - H2W

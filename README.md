@@ -731,6 +731,7 @@
 - Zamorozka 1.1
 - Zane V14.5
 - Zephyr
+- Zeroday 12.18.24
 - ZeroDay b20.6
 - ZeroDay b22.2
 - ZeroDay B6

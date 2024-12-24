@@ -663,6 +663,7 @@
 - Vape v4.08
 - Vape v4.10
 - Vape v4.15
+- Vape v4.16
 - Vatic
 - Vega B5
 - Vega v7.53 b5

@@ -416,7 +416,6 @@
 - Nemesia
 - Nero
 - NeverHook Free
-- New folder
 - NEWCODE 1.7
 - Nexus
 - Nexus b10

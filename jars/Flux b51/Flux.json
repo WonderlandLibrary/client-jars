@@ -1,0 +1,225 @@
+{
+  "id": "Flux",
+  "time": "2015-12-03T19:54:39+10:30",
+  "releaseTime": "2015-12-03T19:54:39+10:30",
+  "type": "release",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
+  "javaVersion": {
+		"component": "java-runtime-gamma",
+		"majorVersion": 17
+	},
+  "libraries": [
+    {
+      "name": "com.mojang:netty:1.8.8",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/mojang/netty/1.8.8/netty-1.8.8.jar",
+          "sha1": "0a796914d1c8a55b4da9f4a8856dd9623375d8bb",
+          "size": 15966
+        }
+      }
+    },
+    {
+      "name": "oshi-project:oshi-core:1.1",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+          "sha1": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+          "size": 30973
+        }
+      }
+    },
+    {
+      "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+          "sha1": "63d216a9311cca6be337c1e458e587f99d382b84",
+          "size": 1634692
+        }
+      }
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.6",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar",
+          "sha1": "306816fb57cf94f108a43c95731b08934dcae15c",
+          "size": 62477
+        }
+      }
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+          "sha1": "c73b5636faf089d9f00e8732a829577de25237ee",
+          "size": 103871
+        }
+      }
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+          "sha1": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+          "size": 5618
+        }
+      }
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+          "sha1": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+          "size": 21679
+        }
+      }
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+          "sha1": "73e80d0794c39665aec3f62eee88ca91676674ef",
+          "size": 18981
+        }
+      }
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+          "sha1": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+          "size": 65020
+        }
+      }
+    },
+    {
+      "name": "io.netty:netty-all:4.0.23.Final",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
+          "sha1": "0294104aaf1781d6a56a07d561e792c5d0c95f45",
+          "size": 1779991
+        }
+      }
+    },
+    {
+      "name": "com.google.guava:guava:17.0",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar",
+          "sha1": "9c6ef172e8de35fd8d4d8783e4821e57cdef7445",
+          "size": 2243036
+        }
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.3.2",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+          "sha1": "90a3822c38ec8c996e84c16a3477ef632cbc87a3",
+          "size": 412739
+        }
+      }
+    },
+    {
+      "name": "commons-io:commons-io:2.4",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
+          "sha1": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+          "size": 185140
+        }
+      }
+    },
+    {
+      "name": "commons-codec:commons-codec:1.9",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+          "sha1": "9ce04e34240f674bc72680f8b843b1457383161a",
+          "size": 263965
+        }
+      }
+    },
+    {
+      "name": "com.mojang:authlib:1.5.21",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar",
+          "sha1": "aefba0d5b53fbcb70860bc8046ab95d5854c07a5",
+          "size": 64412
+        }
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-compress:1.8.1",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+          "sha1": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+          "size": 365552
+        }
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpclient:4.3.3",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+          "sha1": "18f4247ff4572a074444572cee34647c43e7c9c7",
+          "size": 589512
+        }
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpcore:4.3.2",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+          "sha1": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+          "size": 282269
+        }
+      }
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar",
+          "sha1": "697517568c68e78ae0b4544145af031c81082dfe",
+          "size": 1047168
+        }
+      }
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
+      "downloads": {
+        "artifact": {
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar",
+          "sha1": "d51a7c040a721d13efdfbd34f8b257b2df882ad0",
+          "size": 173887
+        }
+      }
+    }
+  ],
+  "mainClass": "net.minecraft.client.main.Main",
+  "minimumLauncherVersion": 21,
+  "assets": "1.8",
+  "downloads": {},
+  "assetIndex": {
+    "totalSize": 114885064,
+    "id": "1.8",
+    "known": true,
+    "url": "https://launchermeta.mojang.com/v1/packages/f6ad102bcaa53b1a58358f16e376d548d44933ec/1.8.json",
+    "sha1": "f6ad102bcaa53b1a58358f16e376d548d44933ec",
+    "size": 78494
+  }
+}

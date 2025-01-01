@@ -215,6 +215,7 @@
 - Flux B4
 - Flux b49.3
 - Flux B5
+- Flux b51
 - Flux B6
 - Flux B7
 - Flux B8
@@ -415,6 +416,7 @@
 - Nemesia
 - Nero
 - NeverHook Free
+- New folder
 - NEWCODE 1.7
 - Nexus
 - Nexus b10
@@ -436,6 +438,7 @@
 - None B2.4
 - North
 - Noteless 220604
+- Notro-0.0.4
 - Nova b15.1
 - Nova B15.2
 - November 3.03
@@ -664,6 +667,7 @@
 - Vape v4.10
 - Vape v4.15
 - Vape v4.16
+- Vape-v4.17
 - Vatic
 - Vega B5
 - Vega v7.53 b5

@@ -9,7 +9,17 @@
   "minimumLauncherVersion": 14,
   "libraries": [
     {
-      "name": "custom.library:trove4j-3.0.3.jar",
+      "name": "custom.library:vecmath:1.5.2",
+      "downloads": {
+        "artifact": {
+          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/vecmath-1.5.2.jar",
+          "sha1": "fd17bc3e67f909573dfc039d8e2abecf407c4e27",
+          "size": 169541
+        }
+      }
+    },
+    {
+      "name": "custom.library:trove4j:3.0.3",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/trove4j-3.0.3.jar",
@@ -19,7 +29,7 @@
       }
     },
     {
-      "name": "custom.library:jetty-io-9.4.35.v20201120.jar",
+      "name": "custom.library:jetty-io:9.4.35.v20201120",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jetty-io-9.4.35.v20201120.jar",
@@ -29,7 +39,7 @@
       }
     },
     {
-      "name": "custom.library:jetty-http-9.4.35.v20201120.jar",
+      "name": "custom.library:jetty-http:9.4.35.v20201120",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jetty-http-9.4.35.v20201120.jar",
@@ -39,7 +49,7 @@
       }
     },
     {
-      "name": "custom.library:jetty-util-9.4.35.v20201120.jar",
+      "name": "custom.library:jetty-util:9.4.35.v20201120",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jetty-util-9.4.35.v20201120.jar",
@@ -49,7 +59,7 @@
       }
     },
     {
-      "name": "custom.library:jetty-server-9.4.35.v20201120.jar",
+      "name": "custom.library:jetty-server:9.4.35.v20201120",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jetty-server-9.4.35.v20201120.jar",
@@ -59,7 +69,7 @@
       }
     },
     {
-      "name": "custom.library:jetty-servlet-9.4.35.v20201120.jar",
+      "name": "custom.library:jetty-servlet:9.4.35.v20201120",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jetty-servlet-9.4.35.v20201120.jar",
@@ -69,7 +79,7 @@
       }
     },
     {
-      "name": "custom.library:fastutil-8.2.1.jar",
+      "name": "custom.library:fastutil:8.2.1",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/fastutil-8.2.1.jar",
@@ -79,7 +89,7 @@
       }
     },
     {
-      "name": "custom.library:jlayer-1.0.1.jar",
+      "name": "custom.library:jlayer:1.0.1",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/jlayer-1.0.1.jar",
@@ -89,12 +99,12 @@
       }
     },
     {
-      "name": "custom.library:javax.servlet-api-3.1.0.jar",
+      "name": "custom.library:javax.servlet-api:3.1.0",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/javax.servlet-api-3.1.0.jar",
-          "sha1": "84ecac65211a075a400497fed7692f98f90b9256",
-          "size": 6
+          "sha1": "3cd63d075497751784b2fa84be59432f4905bf7c",
+          "size": 95806
         }
       }
     },
@@ -359,7 +369,7 @@
       }
     },
     {
-      "name": "custom.library:ZeroDevelop-SDK-1.3.0.jar",
+      "name": "custom.library:ZeroDevelop-SDK:1.3.0",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/ZeroDevelop-SDK-1.3.0.jar",
@@ -369,7 +379,7 @@
       }
     },
     {
-      "name": "custom.library:slick2d-core-1.0.0.jar",
+      "name": "custom.library:slick2d-core:1.0.0",
       "downloads": {
         "artifact": {
           "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/zeroday/slick2d-core-1.0.0.jar",
